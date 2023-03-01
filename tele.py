@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 import sys
-sys.path.append('/home/wpa2/.local/lib/python3.9/site-packages')
 import telegram
 import requests
 
